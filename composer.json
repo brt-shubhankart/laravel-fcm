@@ -1,6 +1,6 @@
 {
     "name": "shubhankart/laravel-fcm",
-    "description": "Laravel / Lumen package for Firebase Cloud Messaging This package just add laravel 8 support for original https://github.com/brozot/Laravel-FCM package ",
+    "description": "Laravel / Lumen package for Firebase Cloud Messaging This package just add laravel 9 support for original https://github.com/brozot/Laravel-FCM package ",
     "keywords": [
         "laravel",
         "lumen",
